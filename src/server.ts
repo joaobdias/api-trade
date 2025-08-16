@@ -1,5 +1,5 @@
 import { app, PORT } from "@/app"
 
 app.listen(PORT, () => {
-    console.log("Hello World")
+    console.log(`Server running on PORT:${PORT}`)
 })
