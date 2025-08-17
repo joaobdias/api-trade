@@ -1,3 +1,5 @@
+// Class to control error codes and messages
+
 class AppError{
     message: string
     statusCode: number

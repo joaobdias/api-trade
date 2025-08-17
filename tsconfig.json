@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
 
-    "target": "es2022", // JS version
+    "target": "es2022", // JS version, ES 2022 or ES13
     "lib": ["ES2023"],
 
     
